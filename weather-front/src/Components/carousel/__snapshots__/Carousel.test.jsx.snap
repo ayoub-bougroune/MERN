@@ -1,0 +1,316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Carousel renders correctly 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-item MuiGrid-grid-xs-12"
+>
+  <div
+    bgcolor="primary.main"
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-1"
+  >
+    <div
+      className="makeStyles-arrowLeftInActif-107"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-5 MuiGrid-align-items-xs-center"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 MuiGrid-grid-md-4"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-card-108 MuiPaper-rounded"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            onClick={[Function]}
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            onClick={[Function]}
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+            />
+          </svg>
+          <div
+            className="MuiCardContent-root makeStyles-cardTitle-110"
+          >
+            <p
+              className="MuiTypography-root makeStyles-title-109 MuiTypography-body1"
+            >
+              Casablanca
+            </p>
+          </div>
+          <div
+            className="MuiCardMedia-root makeStyles-media-112"
+            style={
+              Object {
+                "backgroundImage": "url(\\"/assets/Rain_dark.png\\")",
+              }
+            }
+            title="Paella dish"
+          >
+            <div
+              className="MuiCardContent-root makeStyles-cardDegree-111"
+            >
+              <h1>
+                17
+                °
+              </h1>
+            </div>
+          </div>
+          <div
+            className="MuiCardActions-root MuiCardActions-spacing"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+                >
+                  <div
+                    className="MuiGrid-root"
+                  >
+                    <div
+                      className="makeStyles-arrowDown-187"
+                    />
+                  </div>
+                  <div
+                    className="MuiGrid-root"
+                  >
+                    11
+                  </div>
+                  <div
+                    className="MuiGrid-root"
+                    color="primary.main"
+                  >
+                    <div
+                      className="MuiBox-root MuiBox-root-189"
+                    >
+                      Min
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+              />
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+                >
+                  <div
+                    className="MuiGrid-root"
+                  >
+                    <div
+                      className="makeStyles-arrowUp-186"
+                    />
+                  </div>
+                  <div
+                    className="MuiGrid-root"
+                  >
+                    17
+                  </div>
+                  <div
+                    className="MuiGrid-root"
+                    color="#f00"
+                  >
+                    <div
+                      className="MuiBox-root MuiBox-root-190"
+                    >
+                      Max
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 MuiGrid-grid-md-4"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-card-108 MuiPaper-rounded"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            onClick={[Function]}
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            onClick={[Function]}
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+            />
+          </svg>
+          <div
+            className="MuiCardContent-root makeStyles-cardTitle-110"
+          >
+            <p
+              className="MuiTypography-root makeStyles-title-109 MuiTypography-body1"
+            >
+              Oujda
+            </p>
+          </div>
+          <div
+            className="MuiCardMedia-root makeStyles-media-112"
+            style={
+              Object {
+                "backgroundImage": "url(\\"/assets/Rain_dark.png\\")",
+              }
+            }
+            title="Paella dish"
+          >
+            <div
+              className="MuiCardContent-root makeStyles-cardDegree-111"
+            >
+              <h1>
+                11
+                °
+              </h1>
+            </div>
+          </div>
+          <div
+            className="MuiCardActions-root MuiCardActions-spacing"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+                >
+                  <div
+                    className="MuiGrid-root"
+                  >
+                    <div
+                      className="makeStyles-arrowDown-187"
+                    />
+                  </div>
+                  <div
+                    className="MuiGrid-root"
+                  >
+                    4
+                  </div>
+                  <div
+                    className="MuiGrid-root"
+                    color="primary.main"
+                  >
+                    <div
+                      className="MuiBox-root MuiBox-root-191"
+                    >
+                      Min
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+              />
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+                >
+                  <div
+                    className="MuiGrid-root"
+                  >
+                    <div
+                      className="makeStyles-arrowUp-186"
+                    />
+                  </div>
+                  <div
+                    className="MuiGrid-root"
+                  >
+                    11
+                  </div>
+                  <div
+                    className="MuiGrid-root"
+                    color="#f00"
+                  >
+                    <div
+                      className="MuiBox-root MuiBox-root-192"
+                    >
+                      Max
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-1"
+  >
+    <a
+      aria-disabled={false}
+      className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary"
+      href="/add"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Add City
+      </span>
+    </a>
+    <div
+      className="makeStyles-arrowRightInActif-105"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;

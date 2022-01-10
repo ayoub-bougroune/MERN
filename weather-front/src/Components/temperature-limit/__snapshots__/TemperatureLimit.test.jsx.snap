@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Carousel renders correctly 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root"
+  >
+    <div
+      className="makeStyles-arrowUp-1"
+    />
+  </div>
+  <div
+    className="MuiGrid-root"
+  />
+  <div
+    className="MuiGrid-root"
+    color="#f00"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-107"
+    />
+  </div>
+</div>
+`;
