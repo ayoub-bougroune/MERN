@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node src/app.js"
   },
-  "author": "Asmae",
+  "author": "",
   "dependencies": {
     "axios": "^0.19.1",
     "bcryptjs": "^2.4.3",
